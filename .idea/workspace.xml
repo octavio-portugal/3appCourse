@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="696cfce3-df7f-4c24-b26b-bb52c593032c" name="Default Changelist" comment="" />
+    <list default="true" id="696cfce3-df7f-4c24-b26b-bb52c593032c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +33,9 @@
         <option value="layoutResourceFile" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1o8FJ7uygYe0OXCzlrob9hFEaFS" />
   <component name="ProjectViewState">
@@ -128,5 +133,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="538" y="177" key="AndroidCreateXmlResourceDialog/0.0.1360.728@0.0.1360.728" timestamp="1612668185958" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1612740507460">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1612740507460" />
   </component>
 </project>
